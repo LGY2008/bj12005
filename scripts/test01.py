@@ -6,7 +6,7 @@ class Test01():
 
     @allure.step(title="正在执行登录操作！")
     def test001(self):
-        print("test001被执行")
+        print("test0011  被执行")
 
     @allure.step(title="正在执行退出操作！")
     def test002(self):
